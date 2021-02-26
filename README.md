@@ -7,7 +7,7 @@
 
  ### client :
 
-The front-end side is built using Vite.js (Vue 3)
+The front-end side is built using Vite.js (Vue 3) and it's setup based on https://github.com/innocenzi/laravel-vite
 
 install the dependencies :
 
