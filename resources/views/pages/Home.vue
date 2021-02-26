@@ -24,9 +24,9 @@
           </h1>
 
           <p
-            class="px-1 py-4 font-light text-gray-600 text-md dark:text-gray-300 lg:text-xl"
+            class="px-4 py-8 font-light text-gray-600 text-md dark:text-gray-300 lg:text-xl"
           >
-            Laravel starter using Vitejs + TailwindCSS + Typescript
+            Laravel project built using Vue.js 3 (Vitejs) + TailwindCSS + Typescript
           </p>
 
           <w-btn size="lg" bgColor="bg-primary-500 dark:bg-primary-400">
