@@ -54,7 +54,7 @@
 
     <div class="flex items-center space-x-4 uppercase cursor-pointer text-primary-200">
       <a
-        href="https://github.com/boussadjra/vue3-tailwind2"
+        href="https://github.com/boussadjra/twelve"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -88,8 +88,8 @@ import IconModel from "@/components/icons/IconModel";
 import IconHome from "@/components/icons/IconHome";
 import IconDashboard from "@/components/icons/IconDashboard";
 import IconUser from "@/components/icons/IconUser";
-import IconSun from "../../components/icons/IconSun";
-import IconMoon from "../../components/icons/IconMoon";
+import IconSun from "@/components/icons/IconSun";
+import IconMoon from "@/components/icons/IconMoon";
 export default {
   data() {
     return {
